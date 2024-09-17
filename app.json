@@ -11,7 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "scheme": "Sofia_Castellanos",
+    "scheme": "Sofia_castellanos",
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
